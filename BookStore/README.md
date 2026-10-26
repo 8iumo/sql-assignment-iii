@@ -3,7 +3,7 @@
 ## Section 1: Project Overview
 
 - **Project title:** Online Bookstore Management System
-- **Student name / ID:** twin / 202513604
+- **Student name / ID:** Mohamed Tarig / 202513604
 - **Business idea:** An online bookstore that keeps track of its customers, its catalogue of books, and the orders customers place.
 - **DBMS:** PostgreSQL (pgAdmin 4)
 
