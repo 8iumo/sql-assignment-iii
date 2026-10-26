@@ -1,9 +1,9 @@
 -- =====================================================================
 -- ASSIGNMENT III: SQL TABLE MANIPULATION
 -- Project   : Online Bookstore Management System
--- Student   : twin  (ID: 202513604)
+-- Student   : Mohamed Tarig  (ID: 202513604)
 -- DBMS      : PostgreSQL (pgAdmin 4)
--- Database  : twin_202513604_bookstore_system
+-- Database  : Mohamed Tarig_202513604_bookstore_system
 -- =====================================================================
 
 
